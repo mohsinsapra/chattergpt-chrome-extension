@@ -57,7 +57,3 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ---
 
 Enjoy using ChatterGPT Chrome Extension and make your browsing experience smarter with AI!
-
-```
-
-```
