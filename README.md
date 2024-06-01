@@ -1,6 +1,3 @@
-Sure, here is the README file with the necessary code:
-
-```markdown
 # ChatterGPT Chrome Extension
 
 ChatterGPT is a Chrome extension that integrates ChatGPT into your browser, allowing you to quickly access AI-powered assistance inline by selecting text.
@@ -60,4 +57,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ---
 
 Enjoy using ChatterGPT Chrome Extension and make your browsing experience smarter with AI!
+
+```
+
 ```
